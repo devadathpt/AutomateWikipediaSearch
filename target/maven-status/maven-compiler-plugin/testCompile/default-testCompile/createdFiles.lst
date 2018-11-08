@@ -1,0 +1,4 @@
+com\wikipedia\utility\LoadConfig.class
+com\wikipedia\driver\WebDriverFactory.class
+com\wikipedia\stepDefinitions\RunnerClassSteps.class
+com\wikipedia\utility\LoadConfigClass.class

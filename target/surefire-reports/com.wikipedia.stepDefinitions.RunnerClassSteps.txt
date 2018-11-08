@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.wikipedia.stepDefinitions.RunnerClassSteps
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 2, Errors: 0, Skipped: 3, Time elapsed: 70.883 sec <<< FAILURE! - in com.wikipedia.stepDefinitions.RunnerClassSteps
+And There is a link to language Telugu(| kew Gardens | English | Telugu |)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError:  Telugu language does not exist to translate!!
+
+| kew Gardens | English | Telugu |  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError:  Telugu language does not exist to translate!!
+
